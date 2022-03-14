@@ -3,9 +3,7 @@
         "pid": "0x1666",
         "vid": "0x0951",
         "sn": "19A0ODN001100",
-        "mac1": "001132BEBBE0",
-        "SataPortMap": "A",
-        "DiskIdxMap": "0C"
+        "mac1": "001132BEBBE0"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
