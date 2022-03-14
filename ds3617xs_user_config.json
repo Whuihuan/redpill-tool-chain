@@ -4,7 +4,7 @@
         "vid": "0x0951",
         "sn": "19A0ODN001100",
         "mac1": "001132BEBBE0",
-        "SataPortMap": "1",
+        "SataPortMap": "A",
         "DiskIdxMap": "0C"
     },
     "synoinfo": {},
